@@ -1,3 +1,4 @@
+# author Mehakpreet kaur
 from transformers import pipeline
 
 pipe = pipeline("image-classification", model="google/vit-base-patch16-224")
