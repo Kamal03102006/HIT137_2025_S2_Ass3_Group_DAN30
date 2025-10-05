@@ -1,4 +1,4 @@
-# author Mehakpreet kaur
+# author mehakpreet kaur
 # models_adapter.py
 import warnings
 warnings.filterwarnings("ignore")
