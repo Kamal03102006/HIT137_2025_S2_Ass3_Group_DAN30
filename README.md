@@ -9,3 +9,9 @@ Files:
 - gui.py: Tkinter GUI, calls adapters
 - models_adapter.py: Hugging Face models live here (in __init__ and run())
 - decorators.py: log & exception decorators
+
+
+Contributors:
+Kamalpreet: test_test.py and decorators.py
+Mehakpreet Kaur: test_image.py and models_adapter.py
+Anjana: gui.py and main.py
