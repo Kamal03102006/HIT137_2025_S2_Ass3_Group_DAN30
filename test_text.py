@@ -1,3 +1,4 @@
+# author: Kamalpreet
 from transformers import pipeline
 
 pipe = pipeline("text-generation", model="distilbert/distilgpt2")
