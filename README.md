@@ -12,6 +12,6 @@ Files:
 
 
 Contributors:
-Kamalpreet: test_test.py and decorators.py
-Mehakpreet Kaur: test_image.py and models_adapter.py
-Anjana: gui.py and main.py
+- Kamalpreet: test_test.py and decorators.py
+- Mehakpreet Kaur: test_image.py and models_adapter.py
+- Anjana: gui.py and main.py
