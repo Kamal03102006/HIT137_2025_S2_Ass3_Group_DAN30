@@ -1,4 +1,4 @@
-# main.py
+#author Anjana main.py
 import os, warnings
 os.environ["HF_HUB_DISABLE_SYMLINKS_WARNING"] = "1"
 warnings.filterwarnings("ignore")
